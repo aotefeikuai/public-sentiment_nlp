@@ -1,5 +1,5 @@
-# public-sentiment_npl
-# 项目代码：[基于NPL对爬取的舆情数据进行情感分析](https://www.ricequant.com/community/topic/3339/)
+# public-sentiment_nlp
+# 项目代码：[基于NLP对爬取的舆情数据进行情感分析](https://www.ricequant.com/community/topic/3339/)
 # 中文版本|Chinese Version
 
 ## 用途
